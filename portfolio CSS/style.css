@@ -35,14 +35,14 @@
       border: none;
 }
 .contact-btn{
-    background-color: white;  
+      background-color: white;  
       font-weight: bold;
       font-size: 20px;
       color: #FD6E0A;
       margin-left: 10px;
       padding: 18px 30px;
       border-radius: 5px;
-     border: 2px solid #FD6E0A;
+      border: 2px solid #FD6E0A;
 }
 .section-titel{
     font-size: 35px;
